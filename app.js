@@ -10,6 +10,8 @@ app.get('/',function(req, res){
   res.status(200).send("This is a slack bug bot for Byrd");
 });
 
+console.log("error?");
+
 app.listen(port, function(){
   console.log('listening on port' + port);
 });
@@ -20,3 +22,5 @@ app.post('/hello', function(req, res, next){
     text: "hello " + userName
   };
 });
+
+console.log("End of script");
