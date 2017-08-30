@@ -26,8 +26,9 @@
     "eslint-config-google": "^0.9.1"
   },
   "dependencies": {
-    "express": "*",
     "body-parser": "*",
-    "request": "*"
+    "express": "*",
+    "request": "*",
+    "slack-bot": "^1.1.5"
   }
 }
