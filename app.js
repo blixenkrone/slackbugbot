@@ -7,7 +7,7 @@ var port = process.env.PORT || 4040;
 app.use(bodyParser.urlencoded({extended: true}));
 
 app.get('/',function(req, res){
-  res.status(200).send("Hello World!");
+  res.status(200).send("This is a slack bug bot for Byrd");
 });
 
 app.listen(port, function(){
