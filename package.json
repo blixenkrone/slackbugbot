@@ -24,10 +24,10 @@
   "devDependencies": {
     "eslint": "^4.5.0",
     "eslint-config-google": "^0.9.1"
-  }
-  "dependencies":{
-    "express":"*",
-    "body-parser":"*",
-    "request":"*"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "request": "*"
   }
 }
