@@ -1,0 +1,24 @@
+{
+  "name": "slackbugbot",
+  "version": "1.0.0",
+  "description": "bot that tells users when a bug has been fixed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://byblix@github.com/byblix/slackbugbot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "bug"
+  ],
+  "author": "Simon Blixenkrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byblix/slackbugbot/issues"
+  },
+  "homepage": "https://github.com/byblix/slackbugbot#readme"
+}
