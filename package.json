@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/byblix/slackbugbot/issues"
   },
-  "homepage": "https://github.com/byblix/slackbugbot#readme"
+  "homepage": "https://github.com/byblix/slackbugbot#readme",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-google": "^0.9.1"
+  }
 }
